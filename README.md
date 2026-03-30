@@ -1,3 +1,5 @@
+FINAL CLEAN VERSION (copy/paste)
+
 # Social Posts App – Full Stack MERN Deployment
 
 A full-stack MERN application that allows users to create and view posts. This project demonstrates deploying both frontend and backend from a single monorepo, with a live database connection.
@@ -34,8 +36,13 @@ https://social-full-stack-s24u.onrender.com/
 
 ## API Access
 
-Use the `/api` route to interact with the backend:
+Base URL:
 https://social-full-stack-s24u.onrender.com/
+
+Example endpoints:
+
+- /posts
+- /users
 
 ## Status
 
